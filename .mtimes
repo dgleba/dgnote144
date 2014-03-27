@@ -1,0 +1,30 @@
+1371616430|.gitattributes
+1395881529|.gitignore
+1381416414|.hgignore
+1380125024|.htaccess
+1335124642|Web.config
+1395679142|conf.ini
+1395679592|conf/ApplicationDelegate.php
+1395678026|config.dbc.eg
+1395704832|dgnote144,readme.txt
+1395682170|documents2/Screenshot - 3_24_2014 , 1_29_30 PM.png
+1395679878|documents2/multipleautocomplete,widget (1).png
+1395679844|documents2/multipleautocomplete,widget (more of screen).png
+1395679798|index.php
+1395613228|modules/mautocomplete_tags_list/actions/action_mac.php
+1395681384|modules/mautocomplete_tags_list/actions/configphp.dbc.example
+1395679868|modules/mautocomplete_tags_list/actions/tmp_log_actionmac.txt
+1395470006|modules/mautocomplete_tags_list/js/macjs.js
+1395539578|modules/mautocomplete_tags_list/mautocomplete_tags_list.php
+1395470072|modules/mautocomplete_tags_list/widgetmac.php
+1395704832|readme.md
+1395680182|sql/dgnote130-importmysql.txt
+1395679982|sql/dgnote130e.sql
+1395679068|tables/nte_note/fields.ini
+1395684526|tables/nte_note/nte_note.php
+1395531956|tables/nte_note/valuelists.ini
+1365436196|tables/offline.users/fields.ini
+1366920766|tables/offline.users/users.php
+1395678198|tables/vw_nte_note/fields.ini
+1395531956|tables/vw_nte_note/valuelists.ini
+1395678154|version-dgnote144.txt
